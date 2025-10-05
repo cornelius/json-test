@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "text": "Apple",
+      "description": "A crisp and juicy red fruit",
+      "color": "red"
+    },
+    {
+      "text": "Banana",
+      "description": "A sweet yellow tropical fruit",
+      "color": "yellow"
+    },
+    {
+      "text": "Orange",
+      "description": "A citrus fruit with tangy flavor",
+      "color": "orange"
+    },
+    {
+      "text": "Grape",
+      "description": "Small round fruits that grow in clusters",
+      "color": "purple"
+    }
+  ]
+}

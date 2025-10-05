@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "text": "Success",
+      "description": "Operation completed successfully",
+      "color": "green"
+    },
+    {
+      "text": "Warning",
+      "description": "Proceed with caution",
+      "color": "yellow"
+    },
+    {
+      "text": "Error",
+      "description": "An error has occurred",
+      "color": "red"
+    },
+    {
+      "text": "Info",
+      "description": "Informational message",
+      "color": "blue"
+    }
+  ]
+}
