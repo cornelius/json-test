@@ -1,0 +1,18 @@
+[
+  {
+    "text": "JavaScript",
+    "description": "A versatile programming language for web development"
+  },
+  {
+    "text": "Python",
+    "description": "A high-level language known for readability and simplicity"
+  },
+  {
+    "text": "Java",
+    "description": "An object-oriented language used for enterprise applications"
+  },
+  {
+    "text": "Go",
+    "description": "A statically typed language designed for concurrent programming"
+  }
+]

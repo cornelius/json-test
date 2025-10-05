@@ -1,0 +1,20 @@
+[
+  {
+    "text": "Success",
+    "description": "Operation completed successfully"
+  },
+  {
+    "text": "Warning",
+    "description": "Proceed with caution",
+    "color": "yellow"
+  },
+  {
+    "text": "Error",
+    "description": "An error has occurred"
+  },
+  {
+    "text": "Info",
+    "description": "Informational message",
+    "color": "blue"
+  }
+]
