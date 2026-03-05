@@ -10,11 +10,19 @@
   },
   {
     "text": "Orange",
-    "description": "A citrus fruit with tangy flavor"
+    "description": "A citrus fruit with tangy flavor and happy smell"
   },
   {
     "text": "Grape",
     "description": "Small round fruits that grow in clusters",
     "color": "purple"
+  },
+  {
+    "text": "",
+    "description": ""
+  },
+  {
+    "text": "",
+    "description": ""
   }
 ]
