@@ -1,11 +1,11 @@
 [
   {
-    "text": "JavaScript",
-    "description": "A versatile programming language for web development"
-  },
-  {
     "text": "Python",
     "description": "A high-level language known for readability and simplicity"
+  },
+  {
+    "text": "JavaScript",
+    "description": "A versatile programming language for web development"
   },
   {
     "text": "Java",
