@@ -9,6 +9,11 @@
     "description": "A crisp and juicy red fruit"
   },
   {
+    "text": "Grape",
+    "description": "Hello",
+    "color": "black"
+  },
+  {
     "text": "Orange",
     "description": "A citrus fruit with tangy flavor"
   }
